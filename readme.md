@@ -15,4 +15,5 @@ A simple, clean, and modern Todo App built using **HTML**, **CSS**, and **JavaSc
 - Dynamic HTML element creation
 
 ## 💻 Demo
-👉 [View Live on GitHub Pages](https:/prodbyshiv.github.io/todo-app)
+👉 [View Live on GitHub Pages](https://github.com/prodbyshiv)
+
